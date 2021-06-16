@@ -80,7 +80,7 @@ export default class App extends Component {
 
 const style = StyleSheet.create({
 
-  title:{backgroundColor:'blue',marginBottom:10},
+  title:{backgroundColor:'red',marginBottom:10},
   title_text:{color:'white',textAlign:'center',fontSize:24,fontWeight:'700',paddingBottom:8},
   title_text2:{color:'white',textAlign:'center',fontSize:18,fontWeight:'700'},
   input:{padding:10,backgroundColor:'white',flex:1},
